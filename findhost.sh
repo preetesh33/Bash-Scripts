@@ -1,7 +1,4 @@
 #!/bin/bash
-########
-#owner: Preetesh Sharma
-########
 if [ -z $1 ]; then
 
 echo "No argument provided. Enter a non FQDN host."
