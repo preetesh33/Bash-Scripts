@@ -1,4 +1,7 @@
 #!/bin/bash
+
+#script helps to find host is present in your enviornment or not.
+
 if [ -z $1 ]; then
 
 echo "No argument provided. Enter a non FQDN host."
