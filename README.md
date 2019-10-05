@@ -1,22 +1,22 @@
 You can use list of bash script to automate daily SRE task.
 
-1. dns-record-check.sh
+a. dns-record-check.sh
 
 This script helps to check dns records from host list.
 
-2. finshost.sh 
+b. finshost.sh 
 
 This script will help to find and update whether host in present in your environment or not.
 
-3. git-utils
+c. git-utils
 
 This script clone list of branches, then create and push the same in new branch and also verifies newly created branch.
 
-4. pulp-utils.sh
+d. pulp-utils.sh
 
 This script automates all pulp task.
 
-for exampe - 
+for example - 
 
 # ./pulp-utils.sh
 
@@ -32,8 +32,10 @@ for exampe -
 Please enter your choice: 9
 thank you for using ./pulp.sh
 
-5. swap-usage.sh
 
 This script calculates swap memry and then find top ten processes consuming maximum swap memory.
+e. swap-usage.sh
+
+
 
 
