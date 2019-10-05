@@ -34,6 +34,7 @@ thank you for using ./pulp.sh
 
 
 This script calculates swap memry and then find top ten processes consuming maximum swap memory.
+
 e. swap-usage.sh
 
 
